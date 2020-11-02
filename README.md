@@ -8,5 +8,6 @@ SICP 题解
   * [x] [练习1.8](/Chapter1/exercise_1_8.scm)
   * [x] [练习1.11](/Chapter1/exercise_1_11.scm)
   * [x] [练习1.16](/Chapter1/exercise_1_16.scm)
-  * [ ] [练习1.17](/Chapter1/exercise_1_17.scm)
+  * [x] [练习1.17](/Chapter1/exercise_1_17.scm)
+  * [x] [练习1.18](/Chapter1/exercise_1_18.scm)
 
