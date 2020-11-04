@@ -10,4 +10,5 @@ SICP 题解
   * [x] [练习1.16](/Chapter1/exercise_1_16.scm)
   * [x] [练习1.17](/Chapter1/exercise_1_17.scm)
   * [x] [练习1.18](/Chapter1/exercise_1_18.scm)
+  * [x] [练习1.19](/Chapter1/exercise_1_19.scm)
 
