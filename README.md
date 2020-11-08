@@ -21,3 +21,4 @@ SICP 题解
   * [x] [练习1.37](/Chapter1/exercise_1_37.scm)
   * [x] [练习1.38](/Chapter1/exercise_1_38.scm)
   * [x] [练习1.39](/Chapter1/exercise_1_39.scm)
+  * [x] [练习1.40](/Chapter1/exercise_1_40.scm)
