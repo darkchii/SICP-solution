@@ -29,4 +29,6 @@ SICP 题解
   * [x] [练习1.45](/Chapter1/exercise_1_45.scm)
   * [x] [练习1.46](/Chapter1/exercise_1_46.scm)
 * [第二章](/Chapter2)
-  * [ ] []()
+  * [x] [练习2.1](/Chapter2/exercise_2_1.scm)
+  * [x] [练习2.2](/Chapter2/exercise_2_2.scm)
+  * [x] [练习2.3](/Chapter2/exercise_2_3.scm)
