@@ -34,7 +34,7 @@ SICP 题解
   * [x] [练习2.3](/Chapter2/exercise_2_3.scm)
   * [x] [练习2.4](/Chapter2/exercise_2_4.scm)
   * [x] [练习2.5](/Chapter2/exercise_2_5.scm)
-  * [x] [练习2.6](/Chapter2/exercise_2_6.scm) Reference [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
+  * [x] [练习2.6](/Chapter2/exercise_2_6.scm) (Reference [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus))
   * [x] [练习2.7](/Chapter2/exercise_2_7.scm)
   * [x] [练习2.8](/Chapter2/exercise_2_7.scm)
   * [x] [练习2.10](/Chapter2/exercise_2_10.scm)
