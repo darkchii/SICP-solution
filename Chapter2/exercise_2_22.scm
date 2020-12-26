@@ -6,6 +6,8 @@
 	      (cons (square (car things))
 		    answer))))
   (iter items '()))
-; Because of the iter method from head to tail pass and connect the list elements,
-; so the program always composes the head with the current cdr item are passed to
-; the next iteration and cannot correctly execute.
+;; The "iter" method passes and connects the list elements in order,
+;; each iteration, the program will combine the pervious answer
+;; and the square of the current "car" term and pass it to the next
+;; iteration, so no matter how to modify that cannot get the
+;; expected results.

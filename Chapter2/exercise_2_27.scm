@@ -1,0 +1,18 @@
+(define (deep-reverse items)
+  (define (iter answer elems)
+    (if (null? elems)
+	answer
+	(iter (cons (recursion (car elems)) answer)
+	      (cdr elems))))
+  (define (recursion item)
+    (if (pair? (car item))
+	(iter () (car item))
+	(reverse item)))
+  (iter () items))
+
+(define (reverse items)
+  (define (iter answer item)
+    (cond ((null? item) answer)
+	  (else (iter (cons (car item) answer)
+		      (cdr item)))))
+  (iter '() items))
