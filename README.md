@@ -46,3 +46,4 @@ SICP 题解
   * [x] [练习2.23](/Chapter2/exercise_2_23.scm)
   * [x] [练习2.25](/Chapter2/exercise_2_25.scm)
   * [x] [练习2.27](/Chapter2/exercise_2_27.scm)
+  * [x] [练习2.28](/Chapter2/exercise_2_28.scm)
